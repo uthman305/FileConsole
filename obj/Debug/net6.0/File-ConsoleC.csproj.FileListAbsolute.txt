@@ -1,0 +1,15 @@
+C:\Users\Uthman\Desktop\File-ConsoleC\obj\Debug\net6.0\File-ConsoleC.csproj.AssemblyReference.cache
+C:\Users\Uthman\Desktop\File-ConsoleC\obj\Debug\net6.0\File-ConsoleC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uthman\Desktop\File-ConsoleC\obj\Debug\net6.0\File-ConsoleC.AssemblyInfoInputs.cache
+C:\Users\Uthman\Desktop\File-ConsoleC\obj\Debug\net6.0\File-ConsoleC.AssemblyInfo.cs
+C:\Users\Uthman\Desktop\File-ConsoleC\obj\Debug\net6.0\File-ConsoleC.csproj.CoreCompileInputs.cache
+C:\Users\Uthman\Desktop\File-ConsoleC\bin\Debug\net6.0\File-ConsoleC.exe
+C:\Users\Uthman\Desktop\File-ConsoleC\bin\Debug\net6.0\File-ConsoleC.deps.json
+C:\Users\Uthman\Desktop\File-ConsoleC\bin\Debug\net6.0\File-ConsoleC.runtimeconfig.json
+C:\Users\Uthman\Desktop\File-ConsoleC\bin\Debug\net6.0\File-ConsoleC.dll
+C:\Users\Uthman\Desktop\File-ConsoleC\bin\Debug\net6.0\File-ConsoleC.pdb
+C:\Users\Uthman\Desktop\File-ConsoleC\obj\Debug\net6.0\File-ConsoleC.dll
+C:\Users\Uthman\Desktop\File-ConsoleC\obj\Debug\net6.0\refint\File-ConsoleC.dll
+C:\Users\Uthman\Desktop\File-ConsoleC\obj\Debug\net6.0\File-ConsoleC.pdb
+C:\Users\Uthman\Desktop\File-ConsoleC\obj\Debug\net6.0\File-ConsoleC.genruntimeconfig.cache
+C:\Users\Uthman\Desktop\File-ConsoleC\obj\Debug\net6.0\ref\File-ConsoleC.dll

@@ -1,0 +1,4 @@
+1 Uthman Uthman sal uth 01034649670 1/2/2001 Male SuperAdmin
+3 Frank Edoh frank@gmail.com frank 07034649670 1/2/1998 Male Manager
+4 Aisha Yetunde aisha@gmail.com aisha 08034649670 2/1/2001 Female Agent
+5 Salman Adeshina uth@gmail.com uth 09034649670 2/1/1980 Male Customer
